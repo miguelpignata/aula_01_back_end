@@ -1,0 +1,1 @@
+console.log("Eu sou o banco de dados em Inglês")
