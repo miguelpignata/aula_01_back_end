@@ -22,3 +22,5 @@ node nome_arquivo.js
 ```
 
 ## 🎯 Objetivo
+
+Praticar os primeiros conceitos de desenvolvimento back-end com Node.js e JavaScript.
