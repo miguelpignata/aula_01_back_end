@@ -1,14 +1,24 @@
-# Programas criados na primeira aula de back-end
+# ⚙️ Aula 01 — Back-End
 
-## Tecnologias
+Repositório com os primeiros programas desenvolvidos durante as aulas de **Programação Back-End**.
+
+## 📁 Organização
+
+- `back_exemplos_01/` — exemplos apresentados durante a aula
+- `back_exercícios_01/` — exercícios práticos
+
+## 🛠️ Tecnologias
+
 - Node.js
 - JavaScript
-- VsCode
+- Visual Studio Code
 
-## Para testar
-- Clone este repositório
-- Abra com VsCode
-- Execute cada arquivo individualmente com node
+## ▶️ Como executar
+
+Clone o repositório, abra a pasta no VS Code e execute cada arquivo JavaScript individualmente:
+
 ```bash
 node nome_arquivo.js
 ```
+
+## 🎯 Objetivo
